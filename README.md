@@ -3,3 +3,7 @@
 """
 chainlit hello
 """
+
+"""
+python setup.py install
+"""
